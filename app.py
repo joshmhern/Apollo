@@ -52,7 +52,7 @@ st.plotly_chart(day)
 
 
 ## Crime Count by Neighborhood and Date
-orig_df = pd.read_csv('atlcrime.csv - Copy.csv', low_memory= False)
+orig_df = pd.read_csv('atlcrime - Copy.csv', low_memory= False)
 
 dates = orig_df[orig_df["date"].isin(['12/1/2010', '12/2/2010','12/3/2010','12/4/2010','12/5/2010','12/6/2010','12/7/2010','12/8/2010','12/9/2010','12/10/2010'])]
 
