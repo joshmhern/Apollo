@@ -6,7 +6,7 @@ import numpy as np
 
 st.write("""
     # The Grey Wolf Group Crime Model:wolf:
-    ##### This model is showcases future crime prediction by crime category
+    ##### This model showcases future crime prediction by crime category
          
          """)
 
